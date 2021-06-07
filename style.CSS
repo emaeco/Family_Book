@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: rgb(253, 177, 249);
+}
+
+#heading {
+    color: rgba(255, 0, 0, 0.63);
+    font-family: cursive;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: rgb(25, 209, 209);
+}
+
+#image {
+    height:450px;
+    width:400px;
+    border-radius: 10%;
+    border-style: double;
+    border-width: 5px;
+    background-color: white;
+}
+
+#name {
+   color: rgb(227, 238, 177); 
+   font-weight: bold;
+   font-size: 22px;
+}
